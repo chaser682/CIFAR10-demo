@@ -1,1 +1,12 @@
-./dataset/**
+# 数据集
+/dataset/*
+# tensorboard 可视化文件
+/logs/*
+# 之前参数
+/param/*
+# 现在使用参数
+/params/*
+
+*.iml
+*.xml
+*.name
